@@ -6,3 +6,9 @@ The project can be divided on a broad scale into three distinct steps each repre
 • STEP 1: Emulated Distributed File System component
 • STEP 2: Map Reduce based search function component
 • STEP 3: Command line based interface component
+
+DOCUMENT LINK: https://drive.google.com/file/d/1rLIdfrw5YYXkeSPZMDXpWiaVnLYBsZZL/view?usp=sharing
+
+LINK TO FOLDER CONTAINING CODE: https://drive.google.com/drive/folders/1bw1_cFrvo7z8sQD8Nxno9_W1VRT6NyQP?usp=share_link
+
+LINK TO DEMONSTRATION VIDEO: https://www.youtube.com/watch?v=x_UlaQOfQzg
